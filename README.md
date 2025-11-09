@@ -147,7 +147,7 @@ else:
 - Verifica se é um palíndromo.
 
 ## ✅ O que foi aprendido
-# Entrada de dados com input()
+### Entrada de dados com input()
 
 - Conversão de tipos com int() e float()
 
@@ -163,7 +163,8 @@ else:
 
 - Repetição de texto com multiplicação de strings
 
-##🧾 Conclusão
+## 🧾 Conclusão
+
 Este projeto foi uma excelente introdução à lógica de programação com Python. Utilizando as sugestões do GitHub Copilot, foi possível criar scripts simples, funcionais e educativos. Cada exercício reforça conceitos fundamentais da linguagem e estimula o raciocínio lógico.
 
 👤 Autor do Projeto
